@@ -1,0 +1,26 @@
+{
+  "name": "benqi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "himanshu-pahuja",
+  "license": "ISC",
+  "dependencies": {
+    "@chainlink/contracts": "^0.8.0",
+    "@looksrare/contracts-libs": "^3.4.0",
+    "@nomicfoundation/hardhat-ethers": "^3.0.5",
+    "@nomicfoundation/hardhat-verify": "^2.0.7",
+    "@openzeppelin/contracts": "^5.0.2",
+    "@openzeppelin/contracts-upgradeable": "^4.9.6",
+    "@openzeppelin/hardhat-upgrades": "^3.1.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.1.0",
+    "hardhat": "^2.22.4"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.6"
+  }
+}
