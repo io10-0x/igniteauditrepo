@@ -9,7 +9,7 @@
 - Starts: January 13, 2025 Noon UTC
 - Ends: January 27, 2025 Noon UTC
 
-- nSLOC: Coming Soon
+- nSLOC: 1367
 
 [//]: # (contest-details-open)
 
